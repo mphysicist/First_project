@@ -1,0 +1,10 @@
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\UI.g.cs
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\UI.baml
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\june19.csproj.CoreCompileInputs.cache
+C:\Users\Varian\Desktop\plugins\june19v1.2.esapi.dll
+C:\Users\Varian\Desktop\plugins\june19v1.2.esapi.pdb
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\june19v1.2.esapi_MarkupCompile.cache
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\june19v1.2.esapi_MarkupCompile.lref
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\june19v1.2.esapi.g.resources
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\june19v1.2.esapi.dll
+C:\Users\Varian\Desktop\Projects\june19\obj\x64\Debug\june19v1.2.esapi.pdb
